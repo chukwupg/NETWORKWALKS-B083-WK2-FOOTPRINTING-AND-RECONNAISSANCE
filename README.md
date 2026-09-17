@@ -1,10 +1,14 @@
-# Footprinting and Reconnaissance: A Pentest Report
+# Footprinting and Reconnaissance
+
+**Modules Completed:** PM1 · PM2 · PM4 · PM5 
 
 **Author:** Chukwu PraiseGod
 
 **Date:** 17 September 2026
 
 **Classification:** Educational / Authorised Lab
+
+**Full Pentest report here:**[`Footprinting-and-Reconnaissance-report.pdf`](/Footprinting_and_Reconnaissance_Report.pdf)
 
 ---
 
@@ -247,8 +251,3 @@ From a single domain to a global enterprise footprint, this assessment demonstra
 
 ---
 
-## Portfolio Note
-
-This report is part of my ongoing hands-on Cybersecurity Internship at NetworkWalks.
-
-More labs and case studies available on my GitHub.
